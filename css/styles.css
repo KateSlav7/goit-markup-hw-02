@@ -1,3 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+  }
 .indexlogo-01 {
     font-family: Raleway;
     font-style: normal;
@@ -10,14 +14,10 @@
    text-decoration: none;   }
 .logo-span-01 {
 color:#2196F3;   }
-.logo-span-header {color: black;    
+.logo-span-header {color: #212121;    
 }
 .header-nav {
-position: absolute;
-width: 49px;
-height: 16px;
-left: 453px;
-top: 32px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -26,11 +26,7 @@ line-height: 16px;
 letter-spacing: 0.02em;
 color: #2196F3;}
 .header-nav-two {
-position: absolute;
-width: 77px;
-height: 16px;
-left: 552px;
-top: 32px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -39,11 +35,7 @@ line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;}
 .header-nav-three {
-position: absolute;
-width: 68px;
-height: 16px;
-left: 679px;
-top: 32px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -52,11 +44,7 @@ line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;}
 .header-tel {
-    position: absolute;
-    width: 135px;
-    height: 16px;
-    left: 1078px;
-    top: 32px;
+   
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -65,11 +53,7 @@ color: #212121;}
     letter-spacing: 0.02em;
     color: #2196F3;}
 .header-mal {
-    position: absolute;
-    width: 122px;
-    height: 16px;
-    left: 1263px;
-    top: 32px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -78,18 +62,9 @@ color: #212121;}
     letter-spacing: 0.02em;
     color: #757575}
 .section-hero-background {
-position: absolute;
-width: 1600px;
-height: 600px;
-left: 0px;
-top: 80px;
-background: #2F303A}
+    background: #2F303A}
 .section-hero-color {
-    position: absolute;
-    width: 700px;
-    height: 250px;
-    left: 452px;
-    top: 280px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: 900;
@@ -101,20 +76,12 @@ background: #2F303A}
     text-transform: uppercase;
     color: #FFFFFF;}
 .button-hero-section {
-    position: absolute;
-    width: 200px;
-    height: 50px;
-    left: 700px;
-    top: 430px;
+    
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;}
 .advantage-section-01 
-{position: absolute;
-width: 270px;
-height: 16px;
-left: 215px;
-top: 774px;
+{
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -124,11 +91,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;}
 .advantage-section-001 {
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 215px;
-    top: 800px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -139,11 +102,7 @@ color: #212121;}
     color: #757575;    
 }
 .advantage-section-02 {
-    position: absolute;
-    width: 270px;
-    height: 16px;
-    left: 515px;
-    top: 774px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
@@ -154,11 +113,7 @@ color: #212121;}
     color: #212121; 
 }
 .advantage-section-002 {
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 515px;
-    top: 800px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -168,11 +123,7 @@ color: #212121;}
     letter-spacing: 0.03em;
     color: #757575;}
     .advantage-section-03 {
-position: absolute;
-width: 270px;
-height: 16px;
-left: 815px;
-top: 774px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -182,11 +133,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;}
 .advantage-section-003{
-position: absolute;
-width: 270px;
-height: 75px;
-left: 815px;
-top: 800px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
@@ -196,11 +143,7 @@ line-height: 24px;
 letter-spacing: 0.03em;
 color: #757575;}    
 .advantage-section-04 {
-position: absolute;
-width: 270px;
-height: 16px;
-left: 1115px;
-top: 774px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
@@ -210,11 +153,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;}
 .advantage-section-004 {
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 1115px;
-    top: 800px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -224,11 +163,7 @@ color: #212121;}
     letter-spacing: 0.03em;
     color: #757575;}       
 .what-we-do-section {
-        position: absolute;
-        width:380px;
-        height: 45px;
-        left: 620px;
-        top: 969px;
+        
         font-family: Roboto;
         font-style: normal;
         font-weight: bold;
@@ -238,29 +173,13 @@ color: #212121;}
         letter-spacing: 0.03em;
         color: #212121;    }
 .what-we-do-img {
-position: absolute;
-width: 370px;
-height: 294px;
-left: 215px;
-top: 1061px;}
+}
 .what-we-do-comp {
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 615px;
-    top: 1061px;}
+    }
 .what-we-do-imgg {
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 1015px;
-    top: 1061px;}
+    }
     .team-section-h2 {
-    position: absolute;
-    width: 270px;
-    height: 42px;
-    left: 668px;
-    top: 1543px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
@@ -270,41 +189,25 @@ top: 1061px;}
     letter-spacing: 0.03em;
     color: #212121;}
 .box-igor {
-position: absolute;
-width: 270px;
-height: 368px;
-left: 215px;
-top: 1635px;
+
 background: #FFFFFF;
 /* material shadow v1 */
 box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
 border-radius: 0px 0px 4px 4px;}
 .box-olga {
-    position: absolute;
-    width: 270px;
-    height: 368px;
-    left: 515px;
-    top: 1635px;
+   
     background: #FFFFFF;
     /* material shadow v1 */
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;    }
 .box-nikolay {
-    position: absolute;
-    width: 270px;
-    height: 368px;
-    left: 815px;
-    top: 1635px;
+    
     background: #FFFFFF;
     /* material shadow v1 */
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;   }
 .box-mihail {
-    position: absolute;
-    width: 270px;
-    height: 368px;
-    left: 1115px;
-    top: 1635px;
+    
     background: #FFFFFF;
     /* material shadow v1 */
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
@@ -391,11 +294,7 @@ color: #212121;}
     letter-spacing: 0.03em;
     color: #757575;}  
 .index-footer-section {
-    position: absolute;
-    width: 1600px;
-    height: 252px;
-    left: 0px;
-    top: 2097px;
+   
     background: #2F303A;}
 .indexlogo {
 font-family: Raleway;
@@ -480,11 +379,7 @@ a.list-item-cheked {color: #212121; }
     color: #2196f3;
     background: #FFFFFF;}
 .list-item-cheked-01 {
-position: absolute;
-width: 49px;
-height: 16px;
-left: 453px;
-top: 32px;
+
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -495,11 +390,7 @@ color: #212121;
 text-decoration: none;  }
 .list-item-cheked-02{
     text-decoration: none;  
-    position: absolute;
-    width: 77px;
-    height: 16px;
-    left: 552px;
-    top: 32px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -509,11 +400,7 @@ text-decoration: none;  }
     color: #212121;}
 .list-item-cheked-03{
     text-decoration: none;  
-    position: absolute;
-    width: 68px;
-    height: 16px;
-    left: 679px;
-    top: 32px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -524,11 +411,7 @@ text-decoration: none;  }
 }
     .list-item-cheked-mal {
         text-decoration: none;  
-        position: absolute;
-        width: 135px;
-        height: 16px;
-        left: 1078px;
-        top: 32px;
+       
         
         font-family: Roboto;
         font-style: normal;
@@ -539,11 +422,7 @@ text-decoration: none;  }
         color: #757575;}
 .list-item-cheked-tel {
     text-decoration: none;  
-    position: absolute;
-    width: 122px;
-    height: 16px;
-    left: 1263px;
-    top: 32px;
+    
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -552,141 +431,75 @@ text-decoration: none;  }
     letter-spacing: 0.02em;
     color: #757575;}
 
-
-.section-portfolio-button a:hover, a:focus{
-    color: #2196f3;
-    background: #FFFFFF;
-}
-.button-01 
-{ position: absolute;
-    width: 73px;
-    height: 38px;
-    left: 495px;
-    top: 174px;
-    background: #2196F3;
-    /* shadow-middle */
-    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-    border-radius: 4px;}
-.button-02 {position: absolute;
-    width: 128px;
-    height: 38px;
-    left: 576px;
-    top: 174px;
-    background: #F5F4FA;
-    border-radius: 4px;}
-
-.button-03 {position: absolute;
-    width: 145px;
-    height: 38px;
-    left: 712px;
-    top: 174px;
-    background: #F5F4FA;
-    border-radius: 4px;}
-
-.button-04 {position: absolute;
-    width: 103px;
-    height: 38px;
-    left: 865px;
-    top: 174px;
-    background: #F5F4FA;
-    border-radius: 4px;}
-.button-05 {position: absolute;
-    width: 130px;
-    height: 38px;
-    left: 976px;
-    top: 174px;
-    background: #F5F4FA;
-    border-radius: 4px;}
+    .section-1-portfolio-textbutton button {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        /* identical to box height, or 162% */
+        text-align: center;
+        letter-spacing: 0.03em;
+        background-color: #f5f4fa;
+        /* shadow-middle */
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+          0px 2px 2px rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+      }
+      .section-1-portfolio-textbutton button:hover,
+      .section-1-portfolio-textbutton button:focus {
+        background-color: #2196f3;
+        color: #ffffff;
+        cursor: pointer;
+      }
+      .nobull {
+        list-style-type: none;
+      }
 
     .img-comp {
-        position: absolute;
-        width: 370px;
-        height: 294px;
-        left: 215px;
-        top: 262px;
+        
         background: url(portfolio1.jpg);
     }
     .img-basket {
-        position: absolute;
-        width: 370px;
-        height: 294px;
-        left: 615px;
-        top: 262px;
+       
         background: url(portfolio2.jpg);
     }
     .img-fish {
-        position: absolute;
-        width: 370px;
-        height: 294px;
-        left: 1015px;
-        top: 262px;
+        
         
         background: url(portfolio-1.jpg);    
     }
     .img-naush {
-        position: absolute;
-        width: 370px;
-        height: 294px;
-        left: 215px;
-        top: 696px;
+       
         
         background: url(portfolio-2.jpg);    
     }
     .img-kub {
-        position: absolute;
-        width: 370px;
-        height: 294px;
-        left: 615px;
-        top: 696px;
+        
         background: url(portfolio5.jpg);    
     }
     .img-displ{
-position: absolute;
-width: 370px;
-height: 294px;
-left: 1015px;
-top: 696px;
+
 background: url(111.jpg);
 }
 .img-magaz {
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 215px;
-    top: 1130px;
+    
     background: url(portfolio7.jpg);    
 }
 .img-link {
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 615px;
-    top: 1130px;
+    
     background: url(portfolio8.jpg);    
 }
 .img-nout {
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 1015px;
-    top: 1130px;
+    
     
     background: url(2910404.jpg);    
 }
 .portfolio-adress {
-    position: absolute;
-    width: 1600px;
-    height: 252px;
-    left: 0px;
-    top: 1628px;
+   
     background: #2F303A;   
 }
 .footer-section {
-    position: absolute;
-    width: 1600px;
-    height: 252px;
-    left: 0px;
-    top: 1628px;
+    
     background: #2F303A;   
 }
 .logoportfol {
