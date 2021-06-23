@@ -11,7 +11,7 @@ line-height: 31px;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #2196F3;
-text-decoration: none;}
+text-decoration:#FFFFFF;}
 
 .logo-span-01 {
 color:#2196F3;}
@@ -188,12 +188,11 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #212121;}
 
-.what-we-do-img {
-}
-.what-we-do-comp {
-}
-.what-we-do-imgg {
-}
+.what-we-do-img {}
+
+.what-we-do-comp {}
+
+.what-we-do-imgg {}
 
 .team-section-h2 {
 font-family: Roboto;
@@ -341,6 +340,7 @@ line-height: 24px;
 letter-spacing: 0.03em;
 color: #FFFFFF; }
 
+
 .logo-span {
 color:#2196F3; }
 
@@ -383,7 +383,7 @@ line-height: 31px;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #2196F3;   
-text-decoration: none;}
+text-decoration: #ffffff;}
 
 .logo-span-03 {
 color:#2196F3;}
