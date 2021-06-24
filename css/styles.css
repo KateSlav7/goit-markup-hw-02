@@ -188,11 +188,9 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #212121;}
 
-.what-we-do-img {}
-
-.what-we-do-comp {}
-
-.what-we-do-imgg {}
+.what-we-do-img 
+.what-we-do-comp 
+.what-we-do-imgg 
 
 .team-section-h2 {
 font-family: Roboto;
@@ -396,19 +394,26 @@ list-style: none;}
 li {
 list-style: none;}
 
-a.list-item-cheked {color: #212121; }
+a.list-item-cheked 
+{color: #212121; }
+
 .list-item a:hover,
 .list-item a:focus { 
 color: #2196f3;
 background: #FFFFFF;}
-    
+
+.list-item .current{
+color: var(--accent-color);
+color:#2196f3;
+text-decoration: none;}
+
 .header-nav a:hover a:focus
 .header-nav-two a:hover a:focus
 .header-nav-three a:hover a:focus {
 color: #2196f3;
 background: #FFFFFF;}
 
-.list-item-cheked-01 {
+.list-item-cheked-01{
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -731,3 +736,4 @@ line-height: 30px;
 /* identical to box height, or 187% */
 letter-spacing: 0.03em;
 color: #757575;}
+
